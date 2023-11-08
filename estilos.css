@@ -1,0 +1,36 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: rgba(0, 0, 255, 0.61);
+}
+
+h2{
+    font-size: 25px;
+    margin-left: 30px;
+    color: brown;
+    
+}
+
+p{
+    color:orange;
+    text-shadow: 1px 2px black;
+    text-decoration: underline;
+}
+
+ol li{
+    color: rgba(0, 0, 0, 0.911);
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.funcion{
+    color:rgba(255, 0, 0, 0.712);
+    text-shadow: none;
+    text-decoration: none;
+    
+}
+
+span{
+    text-decoration: underline;
+    font-size: 20px;
+    color:red
+}
